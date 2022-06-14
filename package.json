@@ -11,6 +11,7 @@
     "build:examples": "webpack --config build/webpack.examples.js",
     "build": "npm run build:debug && npm run build:release && npm run build:examples",
     "clean": "rimraf ./examples/examples.bundle.css ./examples/examples.bundle.js"
+    "prepare": "npm run build"
   },
   "repository": {
     "type": "git",
