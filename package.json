@@ -1,5 +1,5 @@
 {
-  "name": "vue-simple-progress",
+  "name": "vue-simple-progress-fix-pct",
   "version": "1.1.1",
   "description": "A simple, flexible progress bar for Vue.js",
   "author": "David Z. Williams <dave@flex.io>",
@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dzwillia/vue-simple-progress.git"
+    "url": "git+https://github.com/ZzzerOo4/vue-simple-progress-fix-pct.git"
   },
   "keywords": [
     "vue",
